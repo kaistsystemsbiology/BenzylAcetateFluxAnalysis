@@ -1,0 +1,13 @@
+	ID	Name	Formula	Charge	Compartment
+0	cinmcoa_c	Cinnamoyl-CoA	C30H38N7O17P3S	-4	c
+1	3hppncoa_c	3-Hydroxy-3-phenylpropanoyl-CoA	C30H40N7O18P3S	-4	c
+2	kppcoa_c	3-Oxo-3-phenylpropanoyl-CoA	C30H38N7O18P3S	-4	c
+3	bzal_c	Benzaldehyde	C7H6O	0	c
+4	bz_c	Benzoate	C7H5O2	-1	c
+5	mndlt__S_c	(S)-Mandelate	C8H7O3	-1	c
+6	phglx_c	Phenylglyoxylate	C8H5O3	-1	c
+7	bzalc_c	Benzyl alcohol	C7H8O	0	c
+8	bzac_c	Benzyl acetate	C9H10O2	0	c
+9	bz_e	Benzoate	C7H5O2	-1	e
+10	bzalc_e	Benzyl alcohol	C7H8O	0	e
+11	bzac_e	Benzyl acetate	C9H10O2	0	e

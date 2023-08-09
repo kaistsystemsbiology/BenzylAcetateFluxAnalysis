@@ -1,0 +1,18 @@
+	ID	Name	Reaction	Lower bound	Upper_bound
+0	PAL	phenylalanine lyase	phe__L_c --> cinnm_c + nh4_c	0	1000
+1	CNL	cinnamate:CoA ligase	atp_c + cinnm_c + coa_c --> amp_c + cinmcoa_c + ppi_c	0	1000
+2	ENCL	cinnamoyl-CoA hydratase	cinmcoa_c + h2o_c <=> 3hppncoa_c	-1000	1000
+3	AIM1	3-hydroxyacyl-CoA dehydrogenase	3hppncoa_c + nad_c --> h_c + kppcoa_c + nadh_c	0	1000
+4	PHDC	3-oxoacyl-CoA ketohydrolase	h2o_c + kppcoa_c --> accoa_c + bz_c + h_c	0	1000
+5	CAR1	carboxylic acid reductase	atp_c + bz_c + h_c + nadph_c --> amp_c + bzal_c + nadp_c + ppi_c	0	1000
+6	BZALDH2	benzyl alcohol dehydrogenase (NADPH)	bzal_c + h_c + nadph_c <=> bzalc_c + nadp_c	-1000	1000
+7	ATF1	alcohol acetyltransferase	accoa_c + bzalc_c --> bzac_c + coa_c	0	1000
+8	HMAS	hydroxymandelate synthase	o2_c + phpyr_c --> co2_c + mndlt__S_c	0	1000
+9	MDLB3	(S)-mandelate dehydrogenase (FMN)	fmn_c + mndlt__S_c --> fmnh2_c + phglx_c	0	1000
+10	MDLC	benzolformate decarboxylase	h_c + phglx_c --> bzal_c + co2_c	0	1000
+11	BZtex	benzoate to extracellular space	bz_c --> bz_e	0	1000
+12	EX_bz_e	benzoate exchange reaction	bz_e --> 	0	1000
+13	BZALCtex	benzyl alcohol to extracellular space	bzalc_c --> bzalc_e	0	1000
+14	EX_bzalc_e	benzyl alcohol exchange reaction	bzalc_e --> 	0	1000
+15	BZAZtex	benzyl acetate to extracellular space	bzac_c --> bzac_e	0	1000
+16	EX_bzac_e	benzyl acetate exchange reaction	bzac_e --> 	0	1000

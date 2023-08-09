@@ -1,0 +1,7 @@
+Description	ReactionIDs
+Integrated strain-benzoic acid dependent pathway	PAL	CNL	ENCL	AIM1	PHDC	CAR1	BZALDH2	ATF1	BZAZtex	EX_bzac_e
+Integrated strain-benzoic acid independent pathway	HMAS	MDLB3	MDLC	BZALDH2	ATF1	BZAZtex	EX_bzac_e
+Co-culture strain-benzoic acid dependent pathway Strain 1	PAL	CNL	ENCL	AIM1	PHDC	BZtex	EX_bz_e
+Co-culture strain-benzoic acid dependent pathway Strain 2	BZtex	EX_bz_e	CAR1	BZALDH2	ATF1	BZAZtex	EX_bzac_e
+Co-culture strain-benzoic acid independent pathway Strain 1	HMAS	MDLB3	MDLC	BZALDH2	BZALCtex	EX_bzalc_e
+Co-culture strain-benzoic acid independent pathway Strain 2	BZALCtex	EX_bzalc_e	ATF1	BZAZtex	EX_bzac_e

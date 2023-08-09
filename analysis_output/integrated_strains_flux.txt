@@ -1,0 +1,3 @@
+	Description	Target chemical	Target chemical production flux (mmol/gDCW/h)	Carbon source uptake flux (mmol/gDCW/h)	molar yield (mol/mol)
+0	Integrated strain-benzoic acid dependent pathway	benzyl acetate	4.874874874874861	9.999999999999948	0.4874874874874886
+1	Integrated strain-benzoic acid independent pathway	benzyl acetate	4.36734693877551	10.0	0.43673469387755104
