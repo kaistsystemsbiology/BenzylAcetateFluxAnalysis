@@ -17,6 +17,7 @@ We used cobrapy==0.21.0
 
         pip install cobra
         conda install matplotlib
+        python -m ipykernel install --user --name flux_analysis --display-name "flux_analysis"
     
 
 ##Perform
