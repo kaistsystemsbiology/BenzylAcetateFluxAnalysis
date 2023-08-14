@@ -12,12 +12,12 @@ We used cobrapy==0.21.0
 
         conda create -n flux_analysis python=3.8 ipykernel
         conda activate flux_analysis
+        python -m ipykernel install --user --name flux_analysis --display-name "flux_analysis"
         
 3. Install required libraries
 
         pip install cobra
         conda install matplotlib
-        python -m ipykernel install --user --name flux_analysis --display-name "flux_analysis"
     
 
 ##Perform
