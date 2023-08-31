@@ -8,7 +8,7 @@ We used cobrapy==0.21.0
 
         git clone https://github.com/kaistsystemsbiology/BenzylAcetateFluxAnalysis.git
 
-2. Create and activate virtual environment
+2. Create and activate virtual environment (~5 min)
 
         conda create -n flux_analysis python=3.8 ipykernel
         conda activate flux_analysis
@@ -20,7 +20,7 @@ We used cobrapy==0.21.0
         conda install matplotlib
     
 
-##Perform
+##Perform (~10 min)
 
 
 - 1. Construction of GEMs with benzyl acetate production pathways
